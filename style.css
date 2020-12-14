@@ -1,0 +1,32 @@
+body {
+  background-color: #ccc;
+}
+
+h1 {
+  color: red;
+  font-family: sans-serif, Helvetica, Arial;
+}
+
+.caja {
+  border: 1px solid black;
+  width: 500px;
+  margin: 0px auto;
+  text-align: center;
+  background-color: white;
+  padding: 10px;
+}
+.caja h1 {
+  color: blue;
+}
+.caja p {
+  color: green;
+}
+.caja .info {
+  font-size: 10px;
+}
+.caja .info .autor {
+  font-size: 15px;
+  color: yellow;
+}
+
+/*# sourceMappingURL=style.css.map */
